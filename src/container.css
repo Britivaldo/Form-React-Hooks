@@ -1,0 +1,14 @@
+.container {
+    height: 520px;
+    width: 340px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: repeat(1, 100%);
+    grid-template-rows: 48px 48px 48px 48px;
+}
+
+form {
+    background-color: blueviolet !important;
+}

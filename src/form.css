@@ -1,0 +1,60 @@
+input {
+    background-color: #fff;
+    border-radius: 5px;
+    outline: none;
+    width: 80%;
+    height: 50%;
+    border: none;
+    padding: 5px;
+}
+form {
+    padding: 6px;
+    
+}
+
+form label {
+    background-color: blueviolet ;
+}
+button {
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    background-color: rgb(126, 120, 120);
+    border-bottom: 2px solid;
+}
+button:hover{
+    background-color: blueviolet;
+}
+
+.form-bnt {
+    padding: 5%;
+    background-color:blueviolet;
+}
+
+#bnt {
+    padding-right: 120px;
+    background-color:blueviolet;
+}
+
+.input-label {
+    background-color:blueviolet;
+}
+
+#list {
+    padding-left: 100px;
+    background-color: #fff;
+    color: darkgray;
+    width: 300px;
+    border-radius: 5px;
+    border-bottom: 2px solid;
+    text-align: left;
+    padding: 10px;
+    margin: 8px;
+}
+
+#title-list{
+    background-color: blueviolet ;
+} 
+#fundo {
+    background-color: blueviolet ;
+}
